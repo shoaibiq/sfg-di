@@ -1,5 +1,6 @@
-package guru.springframework.sfgdi.services;
+package com.springframework.pets;
 
+import guru.springframework.sfgdi.services.PetService;
 import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;
 
